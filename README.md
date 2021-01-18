@@ -18,3 +18,12 @@
           .server (Ver status de servidores
           
 #                                        [🤡] Clown Zerrown © copyright
+
+## Leonsx
+Total responsavel pela programação do bot clown
+
+## Yran
+Dono
+
+## Demais creditos
+Open.mp, dev.prineside, criadores das api's utilizadas.
