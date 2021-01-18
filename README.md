@@ -15,4 +15,6 @@
           .veh (Ver veiculos do samp)
           .obj (Caçar objetos do samp)
           .ip (Mudar o ip do status)
-          .server (Ver status de servidores)
+          .server (Ver status de servidores
+          
+#                                        [🤡] Clown Zerrown © copyright
